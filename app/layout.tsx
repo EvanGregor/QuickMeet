@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "QuickMeet",
   description: "Video calling App",
   icons: {
-    icon: "/icons/logo.svg",
+    icon: "/images/quickmeet.jpg",
   },
 };
 
@@ -27,7 +27,7 @@ export default function RootLayout({
         appearance={{
           layout: {
             socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/yoom-logo.svg",
+            logoImageUrl: "/images/quickmeet.jpg",
           },
           variables: {
             colorText: "#fff",
