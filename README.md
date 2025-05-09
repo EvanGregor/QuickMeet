@@ -37,8 +37,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/zoom-clone.git
-cd zoom-clone
+git clone https://github.com/EvanGregor/QuickMeet.git
+cd QuickMeet
 ```
 
 **Installation**
